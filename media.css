@@ -1,0 +1,150 @@
+@media only screen and (max-width: 400px) {
+  ul li {
+    font-size: 11px;
+    gap: 10px;
+  }
+  .cli-style {
+    font-size: 17px;
+    margin-top: 6px;
+  }
+  .section-1 {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+@media only screen and (max-width: 1526px) {
+  .text-5 {
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 38px;
+    letter-spacing: 2px;
+  }
+}
+@media only screen and (max-width: 972px) {
+  .text-5 {
+    font-size: 10px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 2px;
+  }
+  .box-2 h3 {
+    font-size: 15px;
+  }
+  .heding-2 {
+    font-size: 20px;
+    line-height: 50px;
+  }
+}
+@media only screen and (max-width: 766px) {
+  .heding-2 {
+    font-size: 14px;
+    line-height: 40px;
+  }
+  .head-2{
+    gap: 10px;
+  }
+  .head-2 p{
+    font-size: 10px;
+  }
+  .main-heading {
+    font-size: 25px;
+    line-height: 66px;
+  }
+  .para-1 {
+    font-size: 18px;
+  }
+  .para-img {
+    font-size: 13px;
+  }
+  .para-img span {
+    font-size: 7px;
+  }
+  .option li span::after {
+    height: 80%;
+  }
+  .option li {
+    font-size: 14;
+  }
+  .text-5 {
+    font-size: 8px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 2px;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .text-5 {
+    display: none;
+  }
+  .hidden {
+    display: inline;
+  }
+  .box-2 {
+    flex-direction: column;
+  }
+}
+@media only screen and (max-width: 484px) {
+  .main-heading {
+    font-size: 20px;
+    line-height: 49px;
+  }
+  .footer-4{
+    flex-direction: column;
+    padding: 20px;
+    margin-top: -20px;
+  }
+  
+  .footer-3 {
+    flex-direction: column;
+    line-height: 30px;
+    gap: 40px;
+    padding: 20px;
+    margin-top: -20px;
+  }
+
+  .para-1 {
+    font-size: 14px;
+  }
+  .para-img {
+    font-size: 9px;
+  }
+  .para-img span {
+    font-size: 6px;
+  }
+  .main a {
+    font-size: 10px;
+    text-align: center;
+  }
+  .option-1 li span::after {
+    text-wrap: wrap;
+  }
+  .heading {
+    font-size: 10px;
+  }
+}
+@media only screen and (max-width: 392px) {
+  .main-heading {
+    font-size: 17px;
+    line-height: 49px;
+  }
+  .head-2{
+    flex-direction: column;
+    padding: 20px;
+  }
+  .heding-2 {
+    font-size: 8px;
+    line-height: 22px;
+  }
+  .para-1 {
+    font-size: 12px;
+  }
+  .para-img {
+    font-size: 9px;
+  }
+  .para-img span {
+    font-size: 6px;
+  }
+  .hidden {
+    font-size: 12px;
+  }
+}
