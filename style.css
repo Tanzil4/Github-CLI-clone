@@ -331,6 +331,8 @@ ul {
   color: rgb(88, 87, 87);
   margin-left: 30px;
 }
-.list-2{
+.list-2 a{
+  color: rgb(88, 87, 87);
+  font-size: 20px;
   
 }
